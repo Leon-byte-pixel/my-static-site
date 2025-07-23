@@ -1,0 +1,19 @@
+.main_title{
+	animation: bgchange 20s ease infinite;/*変化の時間を変更したい場合は20sの部分を好きな時間に変更*/
+      padding: 50px 0px 1px 0px;
+      margin-bottom: 200px;
+      /* margin-top: 120px; */
+}
+
+@media screen and (max-width: 844px) {
+   
+}
+
+@keyframes bgchange{
+      0%   {background:#ffe6e1;}/*変化させたい色*/
+      25%  {background:#fdcb9e;}/*変化させたい色*/
+      50%  {background:#fdcbc1;}/*変化させたい色*/
+      75%  {background:#a9fcc1;}/*変化させたい色*/
+      90%  {background:#b2dffb;}/*変化させたい色*/
+      100% {background:#ffe6e1;}/*変化させたい色*/
+ }
