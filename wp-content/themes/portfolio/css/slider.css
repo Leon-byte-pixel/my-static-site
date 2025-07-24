@@ -6,12 +6,12 @@
   }
   /*　背景画像設定　*/
   
-  .slider-item01 {
-      background:url(wp-content/uploads/2024/01/1150.png);
+.slider-item01 {
+      background:url(../../../uploads/2024/01/1150.png);
   }
   
   .slider-item02 {
-      background:url(wp-content/uploads/2023/12/girl.jpg);
+      background:url(../../../uploads/2023/12/girl.jpg);
   }
   
   .slider-item03 {
