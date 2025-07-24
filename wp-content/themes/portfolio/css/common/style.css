@@ -312,7 +312,7 @@ footer {
 
   .uagb-block-0bb1c552.uagb-timeline__outer-wrap
     .uagb-timeline__date-hide.uagb-timeline__inner-date-new {
-    font-size: 30px;
+    font-size: 30px !important;
   }
 
   header {
