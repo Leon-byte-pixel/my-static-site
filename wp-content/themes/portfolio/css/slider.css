@@ -7,15 +7,15 @@
   /*　背景画像設定　*/
   
   .slider-item01 {
-      background:url(/wp-content/uploads/2024/01/1150.png);
+      background:url(wp-content/uploads/2024/01/1150.png);
   }
   
   .slider-item02 {
-      background:url(/wp-content/uploads/2023/12/girl.jpg);
+      background:url(wp-content/uploads/2023/12/girl.jpg);
   }
   
   .slider-item03 {
-      background:url(/wp-content/uploads/2023/12/flower.png);
+      background:url(wp-content/uploads/2023/12/flower.png);
   }
   
   .slider-item {
